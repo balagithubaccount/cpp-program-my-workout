@@ -1,4 +1,5 @@
-// Write a Cpp program to find the biggest number in four variables
+// Write a Cpp program to find the biggest number in four variables using pointer.
+
 
 #include <iostream>
 using namespace std;
@@ -34,6 +35,7 @@ int main()
 /*
 Sample Output:
 
-21 34 54 65
+Input the 4 values: 21 34 54 65
 big is 65
+
 */
