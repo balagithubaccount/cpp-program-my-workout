@@ -1,4 +1,4 @@
-// Write a C program to find Given two numbers equal or not
+// Write a Cpp program to find Given two numbers equal or not
 
 #include <iostream>
 using namespace std;
