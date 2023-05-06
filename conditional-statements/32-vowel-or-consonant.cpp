@@ -18,7 +18,7 @@ int main()
         cout << "Entered alphabet '" << c << "' is consonant.\n";
     return 0;
 }
-
+ 
 /*
 Sample Output:
 
