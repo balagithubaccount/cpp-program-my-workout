@@ -14,7 +14,7 @@ int main()
     {
 
     case 1:
-        cout << "1-Monday\n";
+        cout << "1-Monday\n"; 
         break;
 
     case 2:
