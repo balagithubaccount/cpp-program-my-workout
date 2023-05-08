@@ -8,7 +8,7 @@ Write a Cpp program to find out the sum of an A.P. series
     Expected Output :
     The Sum of the A.P. series are :
     1 + 5 + 9 + 13 + 17 + 21 + 25 + 29 + 33 + 37 = 190
-
+ 
 */
 
 #include <iostream>
