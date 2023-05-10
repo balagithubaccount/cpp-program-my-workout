@@ -1,4 +1,4 @@
-// Write a C program to find the Armstrong number for a given range of number.
+// Write a Cpp program to find the Armstrong number for a given range of number.
 
 #include <iostream>
 using namespace std;
