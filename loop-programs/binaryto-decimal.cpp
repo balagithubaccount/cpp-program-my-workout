@@ -1,4 +1,4 @@
-// Write a Cpp program to convert a binary number into a decimal number without using array, function and while loop. Go to the editor
+// Write a Cpp program to convert a binary number into a decimal number without using array, function and while loop.
 
 #include <iostream>
 using namespace std;
