@@ -7,7 +7,7 @@ int main()
 {
     long int num, term, r, rem, place, oct, list, sum;
     cout << "Input the Binary Number: ";
-    cin >> num;
+    cin >> num;     
     list = 1, sum = 0;
 
     for (term = num; num != 0; num = num / 1000)
