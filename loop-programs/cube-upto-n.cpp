@@ -1,5 +1,5 @@
 //Write a Cpp program To display the cube of the number upto given an integer.
-
+    
 #include <iostream>
 using namespace std;
 
