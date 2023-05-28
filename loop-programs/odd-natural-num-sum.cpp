@@ -1,6 +1,6 @@
 // Write a Cpp programot print n terms of odd natural number and their sum.
 #include <iostream>
-using namespace std;
+using namespace std; 
 
 int main()
 {
