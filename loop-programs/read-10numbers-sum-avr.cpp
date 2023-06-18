@@ -1,4 +1,4 @@
-// Write a Cpp program To read 10 numbers from keyboard and fint their sum and average.
+// Write a Cpp program To read 10 numbers from keyboard and find their sum and average.
 
 #include <iostream>
 using namespace std;
