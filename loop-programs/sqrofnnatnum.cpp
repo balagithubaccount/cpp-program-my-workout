@@ -1,5 +1,5 @@
 // Write a Cpp program to display the n terms of square natural number and their sum.
-// 1 4 9 16 ... n Terms
+// 1 4 9 16 ... n Terms    
 
 #include <iostream>
 using namespace std;
