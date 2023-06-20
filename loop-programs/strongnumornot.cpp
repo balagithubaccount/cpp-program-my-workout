@@ -7,7 +7,7 @@
 */
 
 // Write a Cpp program to check whether a number is a Strong Number or not.
-
+  
 #include <iostream>
 using namespace std;
 
