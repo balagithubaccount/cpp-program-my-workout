@@ -11,7 +11,7 @@ int main()
   cout << "Input the ending number: ";
   cin >> end;
 
-  for (term = start; term <= end; term++)
+  for (term = start; term <= end; term++)  
   {
     sum = 0;
     num = term;
