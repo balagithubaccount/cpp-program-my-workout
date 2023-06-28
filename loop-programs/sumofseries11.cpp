@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
   int n, a, i, v = 1, sum = 0;
-  cout << "Input the number of terms: ";
+  cout << "Input the number of terms: ";    
   cin >> n;
   for (a = 1; a <= 1; a++)
   {
