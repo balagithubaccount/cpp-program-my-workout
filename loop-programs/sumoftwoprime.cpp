@@ -2,7 +2,7 @@
 
 #include <iostream>
 using namespace std;
-
+ 
 int main()
 {
   int num, i, j, k, l, count, temp = 0;
