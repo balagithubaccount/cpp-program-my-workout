@@ -1,4 +1,4 @@
-// Write a C program to Count duplicate elements in array
+// Write a Cpp program to Count duplicate elements in array
 
 #include <iostream>
 using namespace std;
