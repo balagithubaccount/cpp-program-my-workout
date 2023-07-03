@@ -10,7 +10,7 @@ int main()
   cin >> size;
   merge = size + size;
   int arrone[size], arrtwo[size], arrmerge[merge];
-  cout << "Enter the element of first array:\n";
+  cout << "Enter the element of first array:\n"; 
   for (i = 0; i < size; i++)
   {
     cout << i << " element: ";
