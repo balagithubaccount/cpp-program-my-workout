@@ -2,7 +2,7 @@
 
 #include <iostream>
 using namespace std;
-
+ 
 int main()
 {
   int total_element, i, j, count, k = 0, exit, l;
