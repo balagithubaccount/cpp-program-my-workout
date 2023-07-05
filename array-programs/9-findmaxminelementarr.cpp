@@ -1,7 +1,7 @@
 // Write a program in Cpp to find the maximum and minimum element in an array
 
 #include <iostream>
-using namespace std;
+using namespace std;  
 
 int main()
 {
