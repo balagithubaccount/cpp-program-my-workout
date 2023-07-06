@@ -1,4 +1,4 @@
-// Write a Cpp program to to separate odd and even integers in separate arrays.
+// Write a Cpp program to separate odd and even integers in separate arrays.
 
 #include <iostream>
 using namespace std;
