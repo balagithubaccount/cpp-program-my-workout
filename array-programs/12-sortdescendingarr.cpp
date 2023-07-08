@@ -3,7 +3,7 @@
 #include <iostream>
 using namespace std;
 
-int main()
+int main()  
 {
   int num, i, j, temp;
   cout << "Input the total elements: ";
