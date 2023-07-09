@@ -4,7 +4,7 @@
 using namespace std;
 
 int main()
-{
+{  
   int num, i, j, temp;
   cout << "Enter the total elements in array: ";
   cin >> num;
