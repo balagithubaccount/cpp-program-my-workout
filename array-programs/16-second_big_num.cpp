@@ -2,7 +2,7 @@
 
 #include <iostream>
 using namespace std;
-
+ 
 int main()
 {
   int size, i, j, temp, big_num;
