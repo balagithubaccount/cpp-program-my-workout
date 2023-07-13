@@ -1,4 +1,4 @@
-// Write a C program to find the second largest element in an array.
+// Write a Cpp program to find the second largest element in an array.
 
 #include <iostream>
 using namespace std;
