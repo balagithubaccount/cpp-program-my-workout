@@ -1,4 +1,4 @@
-// Write a C progrm to find sum of right diagonals of a matrix.
+// Write a Cpp progrm to find sum of right diagonals of a matrix.
 
 #include <iostream>
 using namespace std;
