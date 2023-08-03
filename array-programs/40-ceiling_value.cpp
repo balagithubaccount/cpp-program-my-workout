@@ -7,7 +7,7 @@ int main()
 {
   int size, i, ceil, value, j = 0;
   cout << "Enter the size of the array: ";
-  cin >> size;
+  cin >> size; 
   int arr[size];
   cout << "Enter the " << size << " elements: ";
   for (i = 0; i < size; i++)
