@@ -1,4 +1,4 @@
-// Write a Cpp program to find the Floor and Ceil of the number 0 to 10 from a sroted array.
+// Write a Cpp program to find the Floor and Ceil of the number 0 to 10 from a sorted array.
 
 #include <iostream>
 using namespace std;
