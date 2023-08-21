@@ -51,12 +51,12 @@ int main()
 }
 
 /*
-   Output:
+Output:
 
-   Enter the first array size: 5
-   Enter the second array size: 5
-   Enter the 5 elements for array 1: 1 5 13 24 35
-   Enter the 5 elements for array 2: 3 8 15 17 32
-   The Median of the two sorted arrays is: 14.0
+Enter the first array size: 5
+Enter the second array size: 5
+Enter the 5 elements for array 1: 1 5 13 24 35
+Enter the 5 elements for array 2: 3 8 15 17 32
+The Median of the two sorted arrays is: 14
 
 */
