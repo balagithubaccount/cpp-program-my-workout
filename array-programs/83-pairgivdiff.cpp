@@ -2,7 +2,7 @@
 
 #include <iostream>
 using namespace std;
-
+ 
 int main()
 {
   int size, i, j, giv_diff, diff, temp = 0;
