@@ -1,4 +1,4 @@
-// Write a Cpp program to find a pair with the given difference.
+// Write a Cpp program to find a pair with the given difference. 
 
 #include <iostream>
 using namespace std;
