@@ -1,4 +1,4 @@
-// Write a Cpp program to count all possible paths from top left to bottom right of a mxn matrix...
+// Write a Cpp program to count all possible paths from top left to bottom right of a mxn matrix.
 
 #include <iostream>
 using namespace std;
