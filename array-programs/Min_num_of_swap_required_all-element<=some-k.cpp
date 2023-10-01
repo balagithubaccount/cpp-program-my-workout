@@ -9,6 +9,7 @@ int main()
   cout << "Enter the array size: ";
   cin >> size;
   int arr[size], copyarr[size];
+  
   cout << "Enter the " << size << " elements: ";
   for (i = 0; i < size; i++)
   {
