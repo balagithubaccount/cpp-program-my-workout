@@ -58,6 +58,6 @@ Enter the size of the array: 11
 Enter the 11 elements: 10 12 15 17 28 32 42 18 56 59 67
 
 The Given array is: 10 12 15 17 28 32 42 18 56 59 67
-The minimum length of unsorted subarray which makes the given array sorted lies between the indeces 4 to 7
+The minimum length of unsorted subarray which makes the given array sorted lies between the indeces 4 to 7`
 
 */
