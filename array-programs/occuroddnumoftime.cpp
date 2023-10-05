@@ -6,10 +6,14 @@ using namespace std;
 int main()
 {
   int size, i, j, k = 0, count, temp;
+
   cout << "Enter the total number of elements in an array: ";
   cin >> size;
+
   int occurodd[size], resultarr[size];
+
   cout << "Enter the " << size << " elements: ";
+
   for (i = 0; i < size; i++)
   {
     cin >> occurodd[i];
