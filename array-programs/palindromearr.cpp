@@ -1,4 +1,4 @@
-// Palintrome
+// Palindrome
 
 #include <iostream>
 using namespace std;
