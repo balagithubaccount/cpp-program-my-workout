@@ -42,6 +42,7 @@ int main()
 }
 /*
 output:
+
 Input the array size: 6
 Enter the 6 values:
 Element 0: 1
@@ -55,4 +56,5 @@ before delete the array list is:
 1 2 3 4 5 9
 After delete the new array is:
 1 2 3 4 5
+
 */

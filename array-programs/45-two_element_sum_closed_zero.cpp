@@ -62,12 +62,15 @@ int main()
   cout << "The nearest zero sum value is: " << sol << "\n";
   return 0;
 }
-/*
-   Enter the array size: 10
-   Enter the 10 elements: 38 44 63 -51 -35 19 84 -69 4 -46
 
-   The given array is: 38 44 63 -51 -35 19 84 -69 4 -46
-   The Pair of elements whose sum is minimum are: [44, -46]
-   The nearest zero sum value is: -2
+/*
+Sample Output:
+
+Enter the array size: 10
+Enter the 10 elements: 38 44 63 -51 -35 19 84 -69 4 -46
+
+The given array is: 38 44 63 -51 -35 19 84 -69 4 -46
+The Pair of elements whose sum is minimum are: [44, -46]
+The nearest zero sum value is: -2
 
 */
