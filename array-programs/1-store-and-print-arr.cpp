@@ -16,7 +16,6 @@ int main()
         cin >> array[i];
 
     cout << "You Entered array is: ";
-
     for (i = 0; i < n; i++)
         cout << array[i] << " ";
     cout << "\n";
