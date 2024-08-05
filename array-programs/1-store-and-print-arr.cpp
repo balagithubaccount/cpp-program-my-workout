@@ -24,6 +24,7 @@ int main()
 }
 
 /*
+
 Sample Output:
 
 Enter the array size: 5
