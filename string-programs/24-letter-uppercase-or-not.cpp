@@ -16,6 +16,7 @@ int uppercase_or_not(char letter)
 int main()
 {
     char letter;
+	
     cout << "Input a character: ";
     cin >> letter ;
     
