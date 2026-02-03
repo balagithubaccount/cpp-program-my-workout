@@ -5,6 +5,10 @@ using namespace std;
 
 int Min(int arr[], int size)
 {
+    if(size <= 0)
+    {
+       return -1;
+    }
 	int min = arr[0];
 	for(int i = 0; i < size; i++)
 	{
@@ -18,6 +22,10 @@ int Min(int arr[], int size)
 
 int Max(int arr[], int size)
 {
+    if(size <= 0)
+    {
+        return -1;
+    }
 	int max = arr[0];
 	for(int i = 0; i < size; i++)
 	{
@@ -33,29 +41,33 @@ int secondLargest(int arr[], int size)
 {
 	int min = Min(arr, size);
 	int max = Max(arr, size);
+	
+	
 
-	for(int ind = 2; ind < size; ind++)
+	for(int ind = 0; ind < size; ind++)
 	{
 		if(max < arr[ind])
 		{
 			min = max;
 			max = arr[ind];
 		}
-		else if(min < arr[ind])
+		else if(min < arr[ind] && arr[ind] != max)
 		{
 			min = arr[ind];
 		}
 	}
+
+    if(min == max)
+    {
+        return -1;
+    }
 
 	return min;
 }
 
 int main()
 {
-	cout<<"Hello World\n";
-
-// 	int arr[] = {1,3,9,8,7,0};
-	int arr[] = {11,11,10};
+	int arr[] = {1,3,9,8,7,0};
 	cout << secondLargest(arr, sizeof(arr) / sizeof(arr[0])) << endl;
 
 	return 0;
